@@ -21,9 +21,6 @@ I'm an aspiring **.NET Developer** passionate about building scalable and effici
 #### Database
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-#### Power BI
-
-#### Python
 
 
 ---
